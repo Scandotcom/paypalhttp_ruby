@@ -10,6 +10,5 @@ Gem::Specification.new do |s|
   s.license = "MIT"
   s.author = "PayPal"
   s.rubyforge_project = "paypalhttp"
-  s.has_rdoc = false
   s.files = Dir.glob ["lib/**/*.{rb}", "spec/**/*", "*.gemspec"]
 end
